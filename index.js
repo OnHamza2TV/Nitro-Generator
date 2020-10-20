@@ -25,7 +25,7 @@ client.on('ready', () => {
     },60000);
 
 const getFake = () => {
-    let nitrocode = generator.generate({ length: 22, numbers: true });
+    let nitrocode = generator.generate({ length: 24, numbers: true });
     return `https://discord.com/billing/promotions/xbox-game-pass/redeem/${nitrocode}`;
 };
 
