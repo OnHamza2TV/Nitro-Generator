@@ -9,7 +9,7 @@
   "author": "On Hamza",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^12.0.0",
     "generate-password": "^1.4.2"
   }
 }
